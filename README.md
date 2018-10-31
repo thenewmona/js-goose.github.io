@@ -1,4 +1,6 @@
-# Web Development by Jonathan Sexton - A Portfolio
+# Web Development by Jonathan Sexton - 
+A Portfolio
+
 A Bootstrap powered responsive web design project
 <br/>
 <br/>
